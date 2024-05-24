@@ -1,0 +1,14 @@
+/* Existing CSS styles */
+#img-div {
+  text-align: center;
+}
+
+#img-div img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* New CSS for centered image */
+#image {
+  display: inline-block;
+}
